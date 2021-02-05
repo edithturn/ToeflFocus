@@ -29,3 +29,10 @@ rising
 upbeat
 albeit = aunque
 
+
+squeeze = 	exprimir, apretar, presionar
+gathering = reunión, acopio, asamblea
+gauge = medir, calibrar, estimar
+ forecasts = pronóstico, previsión 
+ threaten = amenazar
+ 
