@@ -33,6 +33,20 @@ albeit = aunque
 squeeze = 	exprimir, apretar, presionar
 gathering = reunión, acopio, asamblea
 gauge = medir, calibrar, estimar
- forecasts = pronóstico, previsión 
- threaten = amenazar
- 
+forecasts = pronóstico, previsión 
+threaten = amenazar
+cashless = Sin efectivo
+
+brought = trajo
+altogether = completamente
+far-fetched = inverosimil
+momentum = impulso
+
+understandably = comprensiblemente
+toward = hacia
+revenue = ingresos
+hence =  por lo tanto
+unintended = involuntario
+Indeed = en efectivo
+ongoing = en marcha 
+unease = malestar
