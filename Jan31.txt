@@ -20,6 +20,7 @@ begged
 utter
 
 
+
 fund
 volatile
 bonds
@@ -36,12 +37,10 @@ gauge = medir, calibrar, estimar
 forecasts = pronóstico, previsión 
 threaten = amenazar
 cashless = Sin efectivo
-
 brought = trajo
 altogether = completamente
 far-fetched = inverosimil
 momentum = impulso
-
 understandably = comprensiblemente
 toward = hacia
 revenue = ingresos
@@ -50,3 +49,11 @@ unintended = involuntario
 Indeed = en efectivo
 ongoing = en marcha 
 unease = malestar
+
+
+Boost = aumentar
+laid off = despedir
+lack of jobs = falta de empleos
+bubble = burbuja
+Though = aunque
+Moreover = Ademas
