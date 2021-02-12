@@ -45,3 +45,31 @@ irksome =molesta
 lingering = constante
 tempting  tentadora
 rite rito
+
+afford = permitirse
+grapa food = alimento básico
+ended = termino
+poorer = mas pobre
+left hungrier = Más hambrienta
+freely = libremente
+negociada = negociada
+relied = confiado
+safeguard = salvaguardia
+livelihoods = medios de vida
+Overturned = Volcado
+flooding = inundación
+plead = alegar
+rage = rabia
+signposts = señles
+therefore = por lo tanto
+overturn =  anular
+
+aims = objetivos
+Whilst = mientras
+
+tiring = fatigoso
+
+fears = miedos
+drain = drenar
+overblown = marchito
+self-select = autoseleccion
