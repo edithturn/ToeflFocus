@@ -73,3 +73,10 @@ fears = miedos
 drain = drenar
 overblown = marchito
 self-select = autoseleccion
+
+
+profoundly = profundamente
+willingly = de buena gana
+duties = deberes
+seemed = parecio
+Moreover = ademas
