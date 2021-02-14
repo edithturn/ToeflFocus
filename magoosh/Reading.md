@@ -80,3 +80,7 @@ willingly = de buena gana
 duties = deberes
 seemed = parecio
 Moreover = ademas
+
+surprisingly = 
+claimed = 
+unforeseen consequences = consecuencias imprevistas
