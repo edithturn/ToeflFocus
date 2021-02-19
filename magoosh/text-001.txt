@@ -1,0 +1,27 @@
+deglaciation = desglaciación
+largely = en gran parte
+vast = vasta
+coastal = costera
+interior = interior
+
+corredora  = corredora
+Northwest = Northwest
+
+reflection = reflexión
+strengthen = strengthen
+thought = pensamiento
+
+paucity = paucity
+coats = abrigos
+
+shell = cascaron
+nut = nuez
+soft = suave
+tempting = tentadora
+peach = tempting
+cherry = cereza
+angiosperms = 
+a plant that has flowers and produces seeds enclosed within a carpel.
+
+look back  = mirar atras
+assess = evaluar
