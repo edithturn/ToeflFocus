@@ -25,3 +25,35 @@ a plant that has flowers and produces seeds enclosed within a carpel.
 
 look back  = mirar atras
 assess = evaluar
+
+
+awareness = conciencia
+awareness-raising = sensibilizacion
+
+unfold = desplegar
+move toward = moverse hacia
+perceived = pervicido
+pitch in  = ponerse a trabajar
+
+widespread = extendida
+grinding stone = piedra de moler
+sickle-shaped = en forma de oz
+harvesting = cosecha
+blades = cuchillas
+querns =  molinillos
+mortats = morteros
+pestles = morteros
+limestone = caliza 
+basalt =  a dark, fine-grained volcanic rock that sometimes displays a columnar structure. (basalto )
+hunter-foragers = cazadores-recolectores
+hunted = cazado
+gazelle = gacela
+deer = cierva
+lush = lozano
+wild = salvaje
+goats = cabros
+equids = équidos
+foraged = forrajeado
+sickles = hoces
+burials = entierros
+

@@ -1,0 +1,10 @@
+burden = carga
+valets = ayudante de camara
+arising = surgiendo
+fox = zorro
+yearns = anhela
+sour = agrias
+ease = aliviar
+
+mass = masa
+scold = reganio
